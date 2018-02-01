@@ -2,8 +2,8 @@
 //  UIButton+Add.m
 //  UIButton
 //
-//  Created by 李正兵 on 2017/12/24.
-//  Copyright © 2017年 李正兵. All rights reserved.
+//  Created by 徐强 on 2017/12/24.
+//  Copyright © 2017年 徐强. All rights reserved.
 //
 
 #import "UIButton+Add.h"
